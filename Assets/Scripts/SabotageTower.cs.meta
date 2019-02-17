@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9984af3f13a0a243985675a2ce3d519
+timeCreated: 1521153705
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - saboAura: {instanceID: 0}
+  - saboSpawn: {instanceID: 0}
+  - SabotageClip: {fileID: 8300000, guid: 39ff9ee7437f8114a8761cf688f46ddd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
